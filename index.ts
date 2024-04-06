@@ -1,6 +1,7 @@
 #! /usr/bin/env node
 
-// Automated Teller Machine (ATM):
+// Automated Teller Machine (ATM):'
+
 import inquirer from "inquirer";
 
 let mytotalBalance: number = 12000;
